@@ -1,0 +1,14 @@
+{
+    "df": 
+    {
+        "min": -1,
+        "max": 1,
+        "stringFormatting": {
+            "-1": "-",
+            "0": "b",
+            "1": "+"
+        },
+        "separator": "",
+        "applyModToTotal": true
+    }
+}
